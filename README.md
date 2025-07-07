@@ -1,4 +1,4 @@
-# Text-Summarization-App
+
 # 📄 Text Summarization App
 
 This is a simple web app built using [Streamlit](w) and [Hugging Face Transformers](w) that summarizes long text into shorter, meaningful summaries using the `facebook/bart-large-cnn` model.
